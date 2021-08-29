@@ -1,0 +1,21 @@
+[submodule "themes"]
+	path = themes
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "theme"]
+	path = theme
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "the/hugo-future-imperfect"]
+	path = the/hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "content/themes/hugo-future-imperfect"]
+	path = content/themes/hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/hugo-future-imperfect"]
+	path = themes/hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "mysite/themes/hugo-future-imperfect-slim"]
+	path = mysite/themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
