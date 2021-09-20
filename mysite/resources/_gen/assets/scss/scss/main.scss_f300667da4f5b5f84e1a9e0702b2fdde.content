@@ -590,7 +590,7 @@ figcaption {
     }
   }
 }*/
-.physics_outreach::before {
+.categories::before {
   content: "\f07b"; }
 
 .tags::before {
