@@ -126,9 +126,9 @@ disableLanguages        = []
     weight            = 5
 
   [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "contact"
+    name              = "Trips"
+    identifier        = "trips"
+    url               = "trips"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
@@ -175,9 +175,9 @@ disableLanguages        = []
       weight            = 5
 
     [[Languages.fr.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "contact"
+      name              = "Trips"
+      identifier        = "trips"
+      url               = "trips"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
@@ -218,8 +218,8 @@ disableLanguages        = []
 
     [[Languages.pl.menu.main]]
       name              = "Kontakt"
-      identifier        = "contact"
-      url               = "contact"
+      identifier        = "trips"
+      url               = "trips"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
@@ -260,8 +260,8 @@ disableLanguages        = []
 
     [[Languages.pt.menu.main]]
       name              = "Contato"
-      identifier        = "contact"
-      url               = "contact"
+      identifier        = "trips"
+      url               = "trips"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
@@ -324,9 +324,9 @@ disableLanguages        = []
       weight            = 5
 
     [[Languages.nl.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "contact"
+      name              = "Trips"
+      identifier        = "trips"
+      url               = "trips"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
