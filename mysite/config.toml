@@ -28,7 +28,7 @@ disableLanguages        = []
   highlightjs           = true
   highlightjsTheme      = ""
   highlightjsLang       = []
-  viewMorePostsLink     = "blog"
+  viewMorePostsLink     = "free_writting"
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
@@ -112,9 +112,9 @@ disableLanguages        = []
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "blog"
+    name              = "Free writting"
+    identifier        = "free_writting"
+    url               = "free_writting"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
@@ -161,9 +161,9 @@ disableLanguages        = []
       weight            = 2
 
     [[Languages.fr.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "blog"
+      name              = "Free writting"
+      identifier        = "free_writting"
+      url               = "free_writting"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
@@ -203,9 +203,9 @@ disableLanguages        = []
       weight            = 2
 
     [[Languages.pl.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "blog"
+      name              = "Free writting"
+      identifier        = "free_writting"
+      url               = "free_writting"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
@@ -245,9 +245,9 @@ disableLanguages        = []
       weight            = 2
 
     [[Languages.pt.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "blog"
+      name              = "Free writting"
+      identifier        = "free_writting"
+      url               = "free_writting"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
@@ -310,9 +310,9 @@ disableLanguages        = []
       weight            = 2
 
     [[Languages.nl.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "blog"
+      name              = "Free writting"
+      identifier        = "free_writting"
+      url               = "free_writting"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
