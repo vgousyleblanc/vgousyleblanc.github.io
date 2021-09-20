@@ -68,8 +68,8 @@ disableLanguages        = []
   [params.sidebar]
     about               = "This theme was developed for Hugo static site generator."
     postAmount          = 5
-    categories          = true
-    categoriesByCount   = true
+    physics_outreach          = true
+    physics_outreachByCount   = true
 
   [params.footer]
     rssFooter           = true
@@ -119,9 +119,9 @@ disableLanguages        = []
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "categories"
+    name              = "Physics Outreach"
+    identifier        = "physics_outreach"
+    url               = "physics_outreach"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
@@ -169,8 +169,8 @@ disableLanguages        = []
 
     [[Languages.fr.menu.main]]
       name              = "Catégories"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "physics_outreach"
+      url               = "physics_outreach"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
@@ -211,8 +211,8 @@ disableLanguages        = []
 
     [[Languages.pl.menu.main]]
       name              = "Kategorie"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "physics_outreach"
+      url               = "physics_outreach"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
@@ -253,8 +253,8 @@ disableLanguages        = []
 
     [[Languages.pt.menu.main]]
       name              = "Categorias"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "physics_outreach"
+      url               = "physics_outreach"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
@@ -318,8 +318,8 @@ disableLanguages        = []
 
     [[Languages.nl.menu.main]]
       name              = "Categorieën"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "physics_outreach"
+      url               = "physics_outreach"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
