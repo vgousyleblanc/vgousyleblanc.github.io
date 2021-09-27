@@ -54,56 +54,26 @@
                 href="https://vgousyleblanc.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://vgousyleblanc.github.io/es/</loc>
+    <loc>https://vgousyleblanc.github.io/es/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vgousyleblanc.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vgousyleblanc.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://vgousyleblanc.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://vgousyleblanc.github.io/pt/"
+                href="https://vgousyleblanc.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vgousyleblanc.github.io/de/"
+                href="https://vgousyleblanc.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://vgousyleblanc.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://vgousyleblanc.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://vgousyleblanc.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://vgousyleblanc.github.io/nl/"
+                href="https://vgousyleblanc.github.io/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vgousyleblanc.github.io/es/"
+                href="https://vgousyleblanc.github.io/es/contact/"
                 />
   </url><url>
     <loc>https://vgousyleblanc.github.io/es/tags/</loc>
@@ -156,6 +126,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://vgousyleblanc.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://vgousyleblanc.github.io/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vgousyleblanc.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vgousyleblanc.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://vgousyleblanc.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://vgousyleblanc.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vgousyleblanc.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://vgousyleblanc.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://vgousyleblanc.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vgousyleblanc.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://vgousyleblanc.github.io/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vgousyleblanc.github.io/es/"
                 />
   </url>
 </urlset>
