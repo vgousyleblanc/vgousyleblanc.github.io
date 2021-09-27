@@ -19,3 +19,6 @@
 [submodule "mysite/themes/hugo-future-imperfect-slim"]
 	path = mysite/themes/hugo-future-imperfect-slim
 	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "theme/hugo-future-imperfect"]
+	path = theme/hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
